@@ -31,8 +31,6 @@ body {
 }
 
 .navbar-brand:hover {
-    margin-left: 10px;
-    font-size: 20pt;
     color: #B142E5 !important;
 }
 
@@ -113,7 +111,8 @@ nav .btn-primary:hover {
 /* Hero Section */
 
 #hero {
-    padding: 200px 10%;
+    padding: 300px 10%;
+    padding-bottom: 200px;
     display: flex;
 }
 
@@ -161,15 +160,16 @@ nav .btn-primary:hover {
 .row {
     display: flex;
     justify-content: right;
-    background-image: linear-gradient(120deg, rgb(142,204,255) 0%, rgb(85,122,153) 100%);
+    background-image: linear-gradient(200deg, rgb(142,204,255) 0%, rgb(85,122,153) 100%);
     width: 80%;
     margin-left: 20%;
     border-top-left-radius: 60px;
     border-bottom-left-radius: 60px;
+    color: white;
 }
 
 .row:hover {
-    color: white;
+    color: #292B47;
 }
 
 .rowtrailscout {
@@ -184,7 +184,7 @@ nav .btn-primary:hover {
 }
 
 .rowtrailscout:hover {
-    color: #292B47;
+    color: #000000;
 }
 
 .rowgenie {

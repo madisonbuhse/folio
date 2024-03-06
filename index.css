@@ -31,8 +31,6 @@ body {
 }
 
 .navbar-brand:hover {
-    margin-left: 10px;
-    font-size: 20pt;
     color: #B142E5 !important;
 }
 

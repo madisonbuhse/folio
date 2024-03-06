@@ -31,8 +31,6 @@ body {
 }
 
 .navbar-brand:hover {
-    margin-left: 10px;
-    font-size: 20pt;
     color: #B142E5 !important;
 }
 
@@ -113,7 +111,7 @@ nav .btn-primary:hover {
 /* Hero Section */
 
 #herosection {
-    background-image: linear-gradient(180deg, #4F0BBF 0%, #500bbf00 100%) !important;
+    background-image: linear-gradient(180deg, #4F0BBF 0%, #ffffff00 10%) !important;
     background-size: contain;
     height: auto;
     background-repeat: no-repeat;
