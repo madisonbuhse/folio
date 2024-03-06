@@ -360,7 +360,7 @@ p {
 }
 
 .problems {
-    margin: 100px 5%;
+    margin: 100px 0;
 }
 
 h1 {
@@ -391,6 +391,10 @@ h1 {
 
 .collapsible:after {
     width: 100px;
+}
+
+.collapsible:hover {
+    background-color:#737EE6;
 }
 
 .content {
