@@ -39,7 +39,7 @@ body {
 }
 
 .bg-custom {
-    background-color: #e0ceff;
+    background-color: #d5d7f2;
     border-radius: 80px;
 }
 
@@ -222,7 +222,7 @@ nav .btn-primary:hover {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
 }
 
 .chunk {
@@ -272,9 +272,9 @@ a .bold{
 }
 
 #roles {
-    background-color: #737EE6;
+    background-color: #945052;
     padding: 30px 35px;
-    border: solid #313eb4;
+    border: solid #633436;
     border-width: .5px;
     border-radius: 40px;
     color: white;
@@ -301,7 +301,7 @@ p {
 
 .timeline {
     display: flex;
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     justify-content: center;
 }
 
@@ -342,19 +342,19 @@ p {
 .separator {
     display: flex;
     padding: 50px 15%;
-    background-color:#4F0BBF;
+    background-color:#292B47;
 }
 
 .separator h1 {
     font-size: 60pt;
     font-weight: 800;
     letter-spacing: 6px;
-    color: #e0ceff;
+    color: #d5d7f2;
 }
 
 #problem {
     padding: 0 15%;
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
 }
 
 .problems {
@@ -421,7 +421,7 @@ h1 {
 }
 
 #insights {
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     padding: 0 15%;
     padding-top: 50px;
     color:#1b0046;
@@ -430,7 +430,7 @@ h1 {
 .insight {
     background-color: #737EE6;
     padding: 30px 35px;
-    border: solid #313eb4;
+    border: solid #945052;
     border-width: .5px;
     border-radius: 40px;
     color: white;
@@ -452,7 +452,7 @@ h1 {
 }
 
 #solutions {
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     padding: 0 15%;
     padding-top: 150px;
     color:#1b0046;
@@ -475,14 +475,14 @@ h1 {
         font-size: 36pt;
         font-weight: 800;
         letter-spacing: 6px;
-        color:#e0ceff;
+        color:#d5d7f2;
     }
 }
 
 /* Process Section */
 
 #assumptions {
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     padding: 0 15%;
     padding-top: 150px;
     color:#1b0046;
@@ -490,7 +490,7 @@ h1 {
 }
 
 #research {
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     padding: 0 15%;
     padding-top: 150px;
     color:#1b0046;
@@ -508,11 +508,12 @@ h1 {
 }
 
 .userresearch {
-    background-color: #737EE6;
+    background-color: #945052;
     padding: 30px 35px;
     border: solid #313eb4;
     border-width: .5px;
     border-radius: 40px;
+    border-color:#633436;
     color: white;
     display: flex;
     flex-wrap: wrap;
