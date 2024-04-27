@@ -392,7 +392,7 @@ h1 {
 }
 
 .collapsible:hover {
-    background-color:#737EE6;
+    background-color:#945052;
 }
 
 .content {
@@ -428,9 +428,9 @@ h1 {
 }
 
 .insight {
-    background-color: #737EE6;
+    background-color: #945052;
     padding: 30px 35px;
-    border: solid #945052;
+    border: solid #633436;
     border-width: .5px;
     border-radius: 40px;
     color: white;
@@ -537,7 +537,7 @@ h1 {
 }
 
 #persona {
-    background-color:#e0ceff;
+    background-color:#d5d7f2;
     padding: 0 15%;
     padding-top: 150px;
     color:#1b0046;
@@ -624,6 +624,14 @@ h1 {
     margin-right: 5%;
 }
 
+.framescustom {
+    margin-bottom: 100px;
+}
+
+.undercustom {
+    margin-bottom: 100px;
+}
+
 .testcustom {
     margin-top: 400px;
 }
@@ -669,7 +677,7 @@ h1 {
 }
 
 .understep {
-    max-width: 800px;
+    max-width: 600px;
 }
 
 .bottom {
